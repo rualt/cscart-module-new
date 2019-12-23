@@ -11,3 +11,31 @@ msgstr "Product condition"
 msgctxt "Addons::description::product_condition"
 msgid "Condition of product"
 msgstr "Allows to set and display product condition on the it's page"
+
+msgctxt "Languages::Product condition"
+msgid "Condition state"
+msgstr "Product condition"
+
+msgctxt "Languages::brand-new"
+msgid "Excellent"
+msgstr "Brand-new"
+
+msgctxt "Languages::almost as new"
+msgid "Good"
+msgstr "Almost as new"
+
+msgctxt "Languages::has minor deffects"
+msgid "Average"
+msgstr "Has minor deffects"
+
+msgctxt "Languages::has visible deffects of used"
+msgid "Poor"
+msgstr "Has visible deffects of used"
+
+msgctxt "Languages::unusable"
+msgid "Destroyed"
+msgstr "Unusable"
+
+msgctxt "Languages::additional product info"
+msgid "additional product info"
+msgstr "Additional product info"
