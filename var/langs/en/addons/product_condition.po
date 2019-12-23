@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::product_condition"
+msgid "Product condition"
+msgstr "Product condition"
+
+msgctxt "Addons::description::product_condition"
+msgid "Condition of product"
+msgstr "Allows to set and display product condition on the it's page"
