@@ -3,7 +3,7 @@
     <div class="control-group">
     <label class="control-label" for="product_condition">{__("Product condition")}:</label>
         <div class="controls">
-            <select class="span5" name="product_data[product_condition]" id="elm_product_condition">
+            <select name="product_data[product_condition]" id="elm_product_condition">
                 <option value="excellent" {if $product_data.product_condition == "excellent"}selected="selected"{/if}>{__("excellent")}</option>
                 <option value="good" {if $product_data.product_condition == "good"}selected="selected"{/if}>{__("good")}</option>
                 <option value="average" {if $product_data.product_condition == "average"}selected="selected"{/if}>{__("average")}</option>
