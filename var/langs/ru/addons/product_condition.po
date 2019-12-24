@@ -28,7 +28,7 @@ msgctxt "Languages::average"
 msgid "Average"
 msgstr "Есть назначительные деффекты"
 
-msgctxt "Languages:poor"
+msgctxt "Languages::poor"
 msgid "Poor"
 msgstr "Есть заметные деффекты или б/у"
 
