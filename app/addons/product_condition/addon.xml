@@ -7,6 +7,12 @@
     <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
     <status>active</status>
     <default_language>en</default_language>
+    <authors>
+        <author>
+            <name>rualt</name>
+            <url>https://github.com/rualt</url>
+        </author>
+    </authors>
 
     <queries>
         <item for="install">
