@@ -14,25 +14,25 @@ msgstr "Позволяет устанавливать и отображать н
 
 msgctxt "Languages::Product condition"
 msgid "Condition state"
-msgstr "Состояние товара"
+msgstr "Состояние"
 
-msgctxt "Languages::brand-new"
+msgctxt "Languages::excellent"
 msgid "Excellent"
 msgstr "Отличное"
 
-msgctxt "Languages::almost as new"
+msgctxt "Languages::good"
 msgid "Good"
 msgstr "Почти как новое"
 
-msgctxt "Languages::has minor deffects"
+msgctxt "Languages::average"
 msgid "Average"
 msgstr "Есть назначительные деффекты"
 
-msgctxt "Languages::has visible deffects of used"
+msgctxt "Languages:poor"
 msgid "Poor"
 msgstr "Есть заметные деффекты или б/у"
 
-msgctxt "Languages::unusable"
+msgctxt "Languages::destroyed"
 msgid "Destroyed"
 msgstr "Непригодно для использования"
 
