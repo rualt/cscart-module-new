@@ -18,23 +18,23 @@ msgstr "Condition"
 
 msgctxt "Languages::excellent"
 msgid "Excellent"
-msgstr "Brand-new"
+msgstr "Excellent"
 
 msgctxt "Languages::good"
 msgid "Good"
-msgstr "Almost as new"
+msgstr "Good"
 
 msgctxt "Languages::average"
 msgid "Average"
-msgstr "Has minor deffects"
+msgstr "Average"
 
 msgctxt "Languages::poor"
 msgid "Poor"
-msgstr "Has visible deffects of used"
+msgstr "Poor"
 
 msgctxt "Languages::destroyed"
 msgid "Destroyed"
-msgstr "Unusable"
+msgstr "Junk"
 
 msgctxt "Languages::additional product info"
 msgid "additional product info"

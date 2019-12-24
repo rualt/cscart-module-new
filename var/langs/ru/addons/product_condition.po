@@ -22,19 +22,19 @@ msgstr "Отличное"
 
 msgctxt "Languages::good"
 msgid "Good"
-msgstr "Почти как новое"
+msgstr "Хорошее"
 
 msgctxt "Languages::average"
 msgid "Average"
-msgstr "Есть назначительные деффекты"
+msgstr "Среднее"
 
 msgctxt "Languages::poor"
 msgid "Poor"
-msgstr "Есть заметные деффекты или б/у"
+msgstr "Плохое"
 
 msgctxt "Languages::destroyed"
 msgid "Destroyed"
-msgstr "Непригодно для использования"
+msgstr "Утиль"
 
 msgctxt "Languages::additional product info"
 msgid "additional product info"
