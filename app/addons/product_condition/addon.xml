@@ -17,7 +17,7 @@
     <queries>
         <item for="install">
             ALTER TABLE `?:products`
-                ADD `product_condition` VARCHAR(32) NOT NULL DEFAULT 'excellent';
+                ADD `product_condition` VARCHAR(32) NOT NULL;
         </item>
         <item for="uninstall">
             ALTER TABLE `?:products`
