@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::product_condition"
+msgid "Product condition"
+msgstr "Product condition"
+
+msgctxt "Addons::description::product_condition"
+msgid "Condition of product"
+msgstr "Allows to set and display product condition on it's page"
+
+msgctxt "Languages::Product condition"
+msgid "Condition state"
+msgstr "Condition"
+
+msgctxt "Languages::excellent"
+msgid "Excellent"
+msgstr "Excellent"
+
+msgctxt "Languages::good"
+msgid "Good"
+msgstr "Good"
+
+msgctxt "Languages::average"
+msgid "Average"
+msgstr "Average"
+
+msgctxt "Languages::poor"
+msgid "Poor"
+msgstr "Poor"
+
+msgctxt "Languages::destroyed"
+msgid "Destroyed"
+msgstr "Junk"
+
+msgctxt "Languages::additional product info"
+msgid "additional product info"
+msgstr "Additional product info"

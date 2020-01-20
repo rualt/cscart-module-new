@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU"
+
+msgctxt "Addons::name::product_condition"
+msgid "Product condition"
+msgstr "Состояние товара"
+
+msgctxt "Addons::description::product_condition"
+msgid "Condition of product"
+msgstr "Позволяет устанавливать и отображать на странице состояние товара"
+
+msgctxt "Languages::Product condition"
+msgid "Condition state"
+msgstr "Состояние"
+
+msgctxt "Languages::excellent"
+msgid "Excellent"
+msgstr "Отличное"
+
+msgctxt "Languages::good"
+msgid "Good"
+msgstr "Хорошее"
+
+msgctxt "Languages::average"
+msgid "Average"
+msgstr "Среднее"
+
+msgctxt "Languages::poor"
+msgid "Poor"
+msgstr "Плохое"
+
+msgctxt "Languages::destroyed"
+msgid "Destroyed"
+msgstr "Утиль"
+
+msgctxt "Languages::additional product info"
+msgid "additional product info"
+msgstr "Дополнительные сведения о товаре"
