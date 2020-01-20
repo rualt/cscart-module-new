@@ -17,13 +17,3 @@ This module does not make any changes to the platform core.
 ![Product page En](https://i.ibb.co/PT9NgQC/Screenshot-1.png "Page in English")
 
 ![Product page Ru](https://i.ibb.co/wcPNZnY/Screenshot-2.png "Page in Russian")
-
-## About me
-
-30 yo, humanitarian background
-
-for the last year (2019) I study PHP as my first code languade
-
-almost finished hexlet.io php couse
-
-[my hexlet profile](https://ru.hexlet.io/u/rualt)
