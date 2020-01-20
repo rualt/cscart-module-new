@@ -1,8 +1,8 @@
 ## cscart module "Product condition" (Состояние товара)
 
 This is simple cscart module which allows you to add product condition to the database through the admin menu.
+
 The condition will be shown on the product page in English or in Russian.
-By default it's 'excellent'.
 
 This module does not make any changes to the platform core.
 
