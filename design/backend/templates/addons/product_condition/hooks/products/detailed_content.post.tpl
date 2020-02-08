@@ -4,6 +4,7 @@
     <label class="control-label" for="product_condition">{__("Product condition")}:</label>
         <div class="controls">
             <select name="product_data[product_condition]" id="elm_product_condition">
+                <option value="" {if $product_data.product_condition == ""}selected="selected"{/if}>{__("undefined")}</option>
                 <option value="excellent" {if $product_data.product_condition == "excellent"}selected="selected"{/if}>{__("excellent")}</option>
                 <option value="good" {if $product_data.product_condition == "good"}selected="selected"{/if}>{__("good")}</option>
                 <option value="average" {if $product_data.product_condition == "average"}selected="selected"{/if}>{__("average")}</option>
