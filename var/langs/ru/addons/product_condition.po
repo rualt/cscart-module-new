@@ -36,6 +36,10 @@ msgctxt "Languages::destroyed"
 msgid "Destroyed"
 msgstr "Утиль"
 
+msgctxt "Languages::undefined"
+msgid "Undefined"
+msgstr "Не определено"
+
 msgctxt "Languages::additional product info"
 msgid "additional product info"
 msgstr "Дополнительные сведения о товаре"

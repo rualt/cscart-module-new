@@ -36,6 +36,10 @@ msgctxt "Languages::destroyed"
 msgid "Destroyed"
 msgstr "Junk"
 
+msgctxt "Languages::undefined"
+msgid "Undefined"
+msgstr "Undefined"
+
 msgctxt "Languages::additional product info"
 msgid "additional product info"
 msgstr "Additional product info"
