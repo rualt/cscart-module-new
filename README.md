@@ -17,7 +17,9 @@ This module does not make any changes to the platform core.
 
 ![Module menu](https://i.ibb.co/LNMFKYk/Screenshot.png "Menu")
 
-![Module menu](https://i.ibb.co/LNMFKYk/Screenshot.png "Menu")
+![Mass edit menu](https://i.ibb.co/tHWgksG/Screenshot-2020-02-09-Products-Products-Administration-panel.png "Mass edit condition")
+
+![Export menu](https://i.ibb.co/pRqTw7Y/Screenshot-2020-02-09-Administration-Export-data-Administration-panel.png "Add property 'condition' to the data export list")
 
 ![Product page En](https://i.ibb.co/PT9NgQC/Screenshot-1.png "Page in English")
 
