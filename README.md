@@ -13,11 +13,11 @@ This module does not make any changes to the platform core.
 
 #Screenshots
 
-![Installed module](https://i.ibb.co/pxmrNt5/Screenshot-3.png "Installed module")
+![Installed module](https://i.ibb.co/WDMsTQ7/Screenshot-2020-02-09-Add-ons-Manage-add-ons-Administration-panel.png "Installed module")
 
-![Module menu](https://i.ibb.co/LNMFKYk/Screenshot.png "Menu")
+![Module menu](https://i.ibb.co/LNMFKYk/Screenshot.png "Where to find module menu")
 
-![Mass edit menu](https://i.ibb.co/tHWgksG/Screenshot-2020-02-09-Products-Products-Administration-panel.png "Mass edit condition")
+![Mass edit menu](https://i.ibb.co/tHWgksG/Screenshot-2020-02-09-Products-Products-Administration-panel.png "Edit 'condition' propery for multiple products")
 
 ![Export menu](https://i.ibb.co/pRqTw7Y/Screenshot-2020-02-09-Administration-Export-data-Administration-panel.png "Add property 'condition' to the data export list")
 
