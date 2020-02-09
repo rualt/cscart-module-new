@@ -1,7 +1,7 @@
 ## cscart module "Product condition" (Состояние товара)
 
 This is a simple cscart module that allows you to
-- add product condition to the database through the admin menu.
+- add product condition to the database through the admin menu
 - export/import the 'product condition' property 
 - mass edit the 'product condition' property for a list of products
 
