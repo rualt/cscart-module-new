@@ -20,9 +20,12 @@ This module does not make any changes to the platform core.
 ![Module menu](https://i.ibb.co/LNMFKYk/Screenshot.png "Where to find module menu")
 
 #### Edit 'condition' property for multiple products
+[How to edit multiple products at once](https://docs.cs-cart.com/latest/user_guide/manage_products/products/add_product.html#editing-multiple-products-at-once)
+https://docs.cs-cart.com/latest/user_guide/manage_products/products/add_product.html#editing-multiple-products-at-once
 ![Mass edit menu](https://i.ibb.co/tHWgksG/Screenshot-2020-02-09-Products-Products-Administration-panel.png "Edit 'condition' property for multiple products")
 
 #### Add property 'condition' to the data export list
+[How to export/import products](https://docs.cs-cart.com/latest/user_guide/manage_products/import_export/index.html)
 ![Export menu](https://i.ibb.co/pRqTw7Y/Screenshot-2020-02-09-Administration-Export-data-Administration-panel.png "Add property 'condition' to the data export list")
 
 #### Product page in English
