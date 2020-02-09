@@ -11,7 +11,7 @@ This module does not make any changes to the platform core.
 
 [Installation Details](https://www.cs-cart.ru/docs/latest/user_guide/addons/1manage_addons.html#id2)
 
-#Screenshots
+### Screenshots
 
 ![Installed module](https://i.ibb.co/WDMsTQ7/Screenshot-2020-02-09-Add-ons-Manage-add-ons-Administration-panel.png "Installed module")
 
