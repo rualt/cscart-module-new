@@ -2,22 +2,21 @@
 
 use Tygh\Registry;
 
-if (!defined('BOOTSTRAP')) { die('Access denied'); }
+if (!defined('BOOTSTRAP')) {
+    die('Access denied');
+}
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     return array(CONTROLLER_STATUS_OK);
 }
 
 if ($mode == 'manage') {
-
     $selected_fields = Tygh::$app['view']->getTemplateVars('selected_fields');
 
     $selected_fields[] = array('name' => '[data][product_condition]', 'text' => __('Product condition'));
 
     Tygh::$app['view']->assign('selected_fields', $selected_fields);
-
 } elseif ($mode == 'm_update') {
-
     $selected_fields = $_SESSION['selected_fields'];
 
     $field_groups = Tygh::$app['view']->getTemplateVars('field_groups');
