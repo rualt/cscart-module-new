@@ -10,7 +10,7 @@ msgstr "Product condition"
 
 msgctxt "Addons::description::product_condition"
 msgid "Condition of product"
-msgstr "Allows to set and display product condition on it's page, mass assign condition property to a list of products, add product condition to data export/import.
+msgstr "Allows to set and display product condition on it's page, mass assign condition property to a list of products, add product condition to data export/import."
 
 msgctxt "Languages::Product condition"
 msgid "Condition state"
